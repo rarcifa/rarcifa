@@ -1,36 +1,69 @@
-### Hey, this is Ric 👋
+# Ric Arcifa
 
----
+Engineering leader and hands-on builder working across applied AI, SDKs, developer platforms, distributed systems, and blockchain infrastructure.
 
-I am a Senior Full-stack Software Engineer and PhD candidate with +9 years of professional and academic experiences I work with many modern technology stacks across multiple industries.
- 
- 🔭 I have published a research in Blockchain **[CARM: A Blockchain-based Content Quality Assessment and Rewarding Mechanism.](https://ieeexplore.ieee.org/document/9680506)**
- 
- 🌱 I’m currently working at **[Cronos Labs.](https://cronos.org)**
+I focus on designing and shipping production systems with Go, Rust, Python, and TypeScript, with particular interest in:
+- LLM systems and agentic workflows
+- AI SDKs and developer tooling
+- distributed backend architecture
+- blockchain and DeFi infrastructure
+- deep reinforcement learning
 
- 👯 In 2022 I have been actively involed in the release of **[Cronos Play](https://cronos.org/play)**, an EVM comaptible SDK for Game Devs.
- 
- 💬 Ask me about Full Stack Engineering, Blockchain, and any Gaming related stuff.
+## Current Focus
 
----
+- Engineering leadership in AI-centric and platform-driven systems
+- LLM and agent-oriented development workflows
+- OpenAI, Claude, Llama, and Ollama ecosystems
+- Research in Deep Reinforcement Learning and autonomous systems
 
-### Backend.
-NodeJS, Typescript, Nest, Express, Java, C#, Javascript, Go, Rust and more.
+## Background
 
-### Frontend. 
-React, Typescript, Nextjs, Gatsby,, Javascript, Styled Components, Redux, Sass, Less, CSS, Inline Styles, Functional Components, Class Components and more.
+I am an engineering leader and PhD candidate with 10+ years of experience across software engineering, platform architecture, AI, and Web3.
 
-### Web3.
-Ethers, Web3js, Ethereum, Solidty, Hardhat, Ipfs, Filecoin, Cronos, Arweave, Subgraph, Erc20, Erc721, Erc155 and more.
+My industry work has included SDKs, client systems, developer platforms, chain infrastructure, and AI-focused tooling. I have worked across both product environments and consulting engagements, including architecture ownership for early-stage and revenue-generating platforms.
 
-### Databases.
-MongoDB, MySQL, DynamoDB, DocumentDB, Aurora, Postgres, GraphiQL, Cassandra, and more.
+My academic work focuses on AI, autonomous decision systems, and blockchain environments.
 
-### Testing.
-Jest, Cypress, Mocha, Selenium, JUnit and more.
+## Publications
 
-### Automation.
-Git Actions, CircleCI, Code Pipeline, Vercel Deployments, Jenkins and more.
+- **CARM: A Blockchain-based Content Quality Assessment and Rewarding Mechanism**
+- **Optimizing Concentrated Liquidity Management: A Synthetic-to-Historical Deep Reinforcement Learning Strategy**
 
-### Gaming.
-Unity, C#
+## Core Stack
+
+### Languages
+Go, Rust, Python, TypeScript, JavaScript, C#, Java
+
+### Backend
+Node.js, NestJS, Express, REST APIs, event-driven systems, service design
+
+### Frontend
+React, Next.js, TypeScript, Redux, styled-components
+
+### AI
+OpenAI, Claude, Llama, Ollama, agent-oriented workflows, evaluation-driven development
+
+### Web3
+Ethers.js, Web3.js, Solidity, Hardhat, IPFS, Filecoin, Cronos, Ethereum, Subgraphs, ERC-20, ERC-721, ERC-1155
+
+### Data
+PostgreSQL, MySQL, MongoDB, DynamoDB, Aurora, Cassandra
+
+### Testing
+Jest, Cypress, Mocha, Selenium, JUnit
+
+### DevOps / Automation
+GitHub Actions, CircleCI, Jenkins, Vercel, CI/CD pipelines
+
+## Selected Areas I Enjoy Working On
+
+- AI product engineering
+- developer platforms and SDK design
+- platform architecture and system design
+- blockchain infrastructure
+- research-driven engineering
+
+## Contact
+
+- GitHub: [@rarcifa](https://github.com/rarcifa)
+- LinkedIn: add your preferred LinkedIn link
