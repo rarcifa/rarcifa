@@ -66,4 +66,4 @@ GitHub Actions, CircleCI, Jenkins, Vercel, CI/CD pipelines
 ## Contact
 
 - GitHub: [@rarcifa](https://github.com/rarcifa)
-- LinkedIn: add your preferred LinkedIn link
+- LinkedIn: [ricardogiuliano](https://www.linkedin.com/in/ricardogiuliano)
