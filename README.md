@@ -1,67 +1,66 @@
 # Ric Arcifa
 
-Engineering leader and hands-on builder working across applied AI, SDKs, developer platforms, distributed systems, and blockchain infrastructure.
+Engineering leader and researcher working at the intersection of applied AI,
+machine learning, and mathematical modeling, with a production background in
+SDKs, developer platforms, distributed systems, and blockchain infrastructure.
 
-I focus on designing and shipping production systems with Go, Rust, Python, and TypeScript, with particular interest in:
-- LLM systems and agentic workflows
-- AI SDKs and developer tooling
-- distributed backend architecture
-- blockchain and DeFi infrastructure
-- deep reinforcement learning
+I design and ship production systems in Go, Rust, Python, and TypeScript, and
+my research sits where mathematics meets machine learning:
 
-## Current Focus
+- deep reinforcement learning and autonomous decision systems
+- LLM agents: orchestration, evaluation, and benchmark design
+- applied mathematics: optimization, stochastic modeling, and simulation
+- market mechanisms and blockchain infrastructure
 
-- Engineering leadership in AI-centric and platform-driven systems
-- LLM and agent-oriented development workflows
-- OpenAI, Claude, Llama, and Ollama ecosystems
-- Research in Deep Reinforcement Learning and autonomous systems
+## Research
 
-## Background
-
-I am an engineering leader and PhD candidate with 10+ years of experience across software engineering, platform architecture, AI, and Web3.
-
-My industry work has included SDKs, client systems, developer platforms, chain infrastructure, and AI-focused tooling. I have worked across both product environments and consulting engagements, including architecture ownership for early-stage and revenue-generating platforms.
-
-My academic work focuses on AI, autonomous decision systems, and blockchain environments.
+PhD candidate at the Technological University of the Shannon, working on AI
+and autonomous decision systems. My research spans deep reinforcement learning
+for sequential decision problems, LLM orchestration with deterministic safety
+guarantees, mathematical modeling of market mechanisms (automated market
+makers, concentrated liquidity), and the evaluation of LLM agents on
+scientific and mathematical tasks.
 
 ## Publications
 
-- **CARM: A Blockchain-based Content Quality Assessment and Rewarding Mechanism**
-- **Optimizing Concentrated Liquidity Management: A Synthetic-to-Historical Deep Reinforcement Learning Strategy**
+- **Bounded LLM Orchestration with Deterministic Safety Gates for Concentrated
+  Liquidity Management** — IEEE Access, 2026
+- **From MDP to POMDP for Concentrated Liquidity Management: A
+  Synthetic-to-Historical Deep Reinforcement Learning Strategy** — IEEE
+  International Conference on Consumer Electronics (ICCE), 2026
+- **Optimizing Concentrated Liquidity Management: A Synthetic-to-Historical
+  Deep Reinforcement Learning Strategy** — IEEE International Conference on
+  Decentralized Applications, 2025
+- **CARM: A Blockchain-based Content Quality Assessment and Rewarding
+  Mechanism** — IEEE International Conference on Blockchain, 2021
 
-## Core Stack
+## Current Focus
 
-### Languages
-Go, Rust, Python, TypeScript, JavaScript, C#, Java
+- Research in deep reinforcement learning, LLM orchestration, and agent evaluation
+- Engineering leadership in AI-centric and platform-driven systems
+- Evaluation-driven development for agentic systems across the Claude, OpenAI,
+  Llama, and Ollama ecosystems
 
-### Backend
-Node.js, NestJS, Express, REST APIs, event-driven systems, service design
+## Background
 
-### Frontend
-React, Next.js, TypeScript, Redux, styled-components
+Engineering leader with 10+ years across software engineering, machine
+learning, platform architecture, and Web3: SDKs, client systems, developer
+platforms, chain infrastructure, and AI tooling, in both product environments
+and consulting engagements, including architecture ownership for early-stage
+and revenue-generating platforms.
 
-### AI
-OpenAI, Claude, Llama, Ollama, agent-oriented workflows, evaluation-driven development
+## Certifications
 
-### Web3
-Ethers.js, Web3.js, Solidity, Hardhat, IPFS, Filecoin, Cronos, Ethereum, Subgraphs, ERC-20, ERC-721, ERC-1155
+- Claude Certified (Anthropic)
 
-### Data
-PostgreSQL, MySQL, MongoDB, DynamoDB, Aurora, Cassandra
+## Stack
 
-### Testing
-Jest, Cypress, Mocha, Selenium, JUnit
-
-### DevOps / Automation
-GitHub Actions, CircleCI, Jenkins, Vercel, CI/CD pipelines
-
-## Selected Areas I Enjoy Working On
-
-- AI product engineering
-- developer platforms and SDK design
-- platform architecture and system design
-- blockchain infrastructure
-- research-driven engineering
+- **Languages:** Go, Rust, Python, TypeScript
+- **AI / ML:** deep reinforcement learning, agent orchestration,
+  evaluation-driven development, Claude, OpenAI, Llama, Ollama
+- **Systems:** event-driven backends, REST APIs, PostgreSQL, MongoDB,
+  DynamoDB, CI/CD (GitHub Actions), React / Next.js
+- **Web3:** Solidity, Hardhat, Ethers.js, IPFS, Ethereum, Cronos, subgraphs
 
 ## Contact
 
